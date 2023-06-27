@@ -1,0 +1,1 @@
+select 'charizard' as pokemon, count(1) from raw.pokemon_moves_move
