@@ -30,4 +30,4 @@ models:
     # Config indicated by + and applies to all files under models/example/
     example:
       +materialized: table
-      +schema: analytics
+      +schema: to_analytics
